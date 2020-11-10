@@ -1,2 +1,9 @@
+![poster](poster.png)
+
 # Hangman
-# Inlämningsuppgift Javascript 1, Alwin och John JK, FED20
+Klassiska hänga gubbe med HTML, CSS och JS.
+
+## Instruktioner
+Du ska bygga det klassiska spelet **hangman** ( el. hänga gubbe på sve ). Använd ```hangman.svg```.
+
+![screen](screen.png)
